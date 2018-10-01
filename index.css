@@ -15,8 +15,8 @@ h2 {
 }
 
 .js-feedBack h2, .js-result h2{
-  text-shadow: 0 0 2px #000;
-  color:whitesmoke;
+  text-shadow: 0 0 120px #fff;
+  color: #3455db;
 }
 
 p {
@@ -88,8 +88,8 @@ label::after {
 }
 
 legend {
-  text-shadow: 0 0 2px #000;
-  color:whitesmoke;
+  text-shadow: 0 0 120px #fff;
+  color:#3455db;
   margin-bottom: 10px;
   font-size: 1.2em
 }
@@ -109,13 +109,14 @@ legend {
 .question {
   color: #152A7E;
   text-shadow:none; 
+  font-weight:bold;
 }
 
 .answer {
   display: block;
   text-align: center;
   margin-top:20px;
-  color: red;
+  color: #8B0000;
 }
 
 fieldset {
