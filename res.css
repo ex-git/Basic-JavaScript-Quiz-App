@@ -1,0 +1,9 @@
+@media only screen and (max-height: 520px) {
+  form {
+    margin: 2%
+  }
+  .js-bar {
+  position: relative;
+  bottom: 5px;
+  margin-top: 10px
+}
