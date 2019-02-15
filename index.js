@@ -4,7 +4,7 @@ const STORE = {
   questions: [
    {question:'Inside which HTML element do we put the JavaScript?',
    choices: ['&lt;javascript&gt;','&lt;code&gt;','&lt;script&gt;','&lt;div&gt;'],
-   answer: 1},
+   answer: 0},
    {question:'What is the correct syntax for referring to an external script called "xxx.js"',
    choices: ['&lt;script src="xxx.js"&gt;','&lt;script ref="xxx.js"&gt;','&lt;script rel="xxx.js"&gt;','&lt;script url="xxx.js"&gt;'],
    answer: 0},
